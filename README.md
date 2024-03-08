@@ -1,6 +1,7 @@
 # ✨ How abOut You? 
 ##### 당신의 하루가 궁금한 HOY와 함께 몸 건강 마음건강을 모두 챙겨보아요!
 ##### 감정 기록 및 생활습관 개선 서비스 HoY!
+![HOy](https://github.com/warmsy/HOY_project_teamCESCO/assets/87452600/973bf90a-b6c4-4e76-b210-bee962c06c71)
 
 HoY 프로젝트 소개 
 -------------
